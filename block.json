@@ -1,0 +1,8 @@
+{
+  "blockTypeID": "blk_6a212e6783c3ccc426783705",
+  "name": "重复数据检测与合并",
+  "description": "检测和合并多维表格中的重复数据",
+  "type": "bitable_record_view",
+  "entry": "index.html",
+  "version": "1.0.2"
+}

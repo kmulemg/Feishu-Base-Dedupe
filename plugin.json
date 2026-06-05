@@ -1,0 +1,13 @@
+{
+  "name": "重复数据检测与合并",
+  "description": "用于检测和合并多维表格中的重复数据",
+  "version": "1.0.0",
+  "author": "Ma Ge",
+  "base": {
+    "desktop": {
+      "entry": "index.html",
+      "width": 800,
+      "height": 600
+    }
+  }
+}

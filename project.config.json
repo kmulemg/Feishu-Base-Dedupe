@@ -1,0 +1,8 @@
+{
+  "name": "重复数据检测与合并",
+  "type": "block",
+  "block": {
+    "type": "bitable_record_view"
+  },
+  "version": "1.0.0"
+}
